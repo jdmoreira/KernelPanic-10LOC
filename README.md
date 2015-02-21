@@ -5,3 +5,5 @@ I didn't wrote the code.
 
 https://medium.com/@oleavr/diy-kernel-panic-os-x-and-ios-in-10-loc-c250d9649159
 http://www.reddit.com/r/programming/comments/2wkdbr/kernel_panic_in_latest_os_x_in_10_lines_of_c
+https://news.ycombinator.com/item?id=9084346
+https://gist.github.com/cfr/425812debdb2a6d0449f
