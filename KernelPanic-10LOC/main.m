@@ -14,11 +14,6 @@
 //#include <mach/mach_vm.h>
 #include <mach-o/dyld.h>
 
-#ifndef __LP64__
-#define mach_vm_protect vm_protect
-#define mach_vm_read_overwrite vm_read_overwrite
-#endif
-
 extern kern_return_t mach_vm_protect(vm_map_t, mach_vm_address_t, mach_vm_size_t,
                                      boolean_t, vm_prot_t);
 
